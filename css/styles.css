@@ -69,6 +69,7 @@ body {
   height: 4px;
   background-color: #404bbf;
   border-radius: 2px;
+  color: #404bbf;
 }
 
 .header-menu-item:hover::after {
